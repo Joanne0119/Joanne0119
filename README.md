@@ -3,7 +3,7 @@
 A creative programmer & designer — full-stack developer building interactive web and mobile apps.
 Currently a Master's student in Computer Science and Engineering @ National Sun Yat-sen University.
 
-🌐 [Portfolio](https://joanne-porfolio.netlify.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/joanne0119/) · 📧 joanneliu0119@gmail.com
+🌐 [Portfolio](https://joanneliu-portfolio.netlify.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/joanne0119/) · 📧 joanneliu0119@gmail.com
 
 ## 🛠 Tech Stack
 
