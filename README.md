@@ -13,7 +13,7 @@ Currently a Master's student in Computer Science and Engineering @ National Sun 
 
 ## 💼 Experience
 
-- **Research Assistant** @ Research Center for Information Technology Innovation, Academia Sinica (2025.04 – 2026.08)
+- **Research Assistant** @ Research Center for Information Technology Innovation, Academia Sinica (2025.04 – Present)
   — iOS Bluetooth node utility tool & anomaly detection system
 - **Front-end Engineering Intern** @ Genibuilder Technology Co., Ltd. (2026.01 – 2026.08)
   — cross-platform B2B appointment & AI customer service app
